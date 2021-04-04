@@ -1,6 +1,6 @@
 # Greetings
 I'm a video games and applications programmer, highly accostummed to C# and well dominion of C++ and Javascript. Highly adaptable and flexible to any type of technology.
-<h1> Especialidades </h1>
+<h1> Skills </h1>
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="55px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/600px-Godot_icon.svg.png" width="55px">
 <img src="https://i.pinimg.com/originals/79/18/66/791866447147ee53f4e65dffdf90d12b.png" width="55px">
